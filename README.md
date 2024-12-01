@@ -1,2 +1,0 @@
-# Caveman-Error
-Error Page
